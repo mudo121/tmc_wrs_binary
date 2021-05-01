@@ -1,7 +1,12 @@
-tmc_wrs_binary
+tmc_wrs_binary - Mudo Edition
 ---------------
 
-Authors
+Setup
+---------------
+
+1. Read this https://github.com/hsr-project/tmc_wrs_docker/blob/master/README.md
+
+(Original) Authors
 ---------------
  * Yosuke Matsusaka
 
